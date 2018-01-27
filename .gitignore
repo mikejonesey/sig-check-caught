@@ -1,0 +1,4 @@
+.idea
+.idea/*
+cmake-build-debug/sig_check_caught
+cmake-build-debug/CMakeFiles/feature_tests.bin
